@@ -1,8 +1,11 @@
 <h1 align="left">Hi 👋, I'm Masdika Ilhan Mansiz</h1>
-<h3 align="left">A mobile developer entusiasm</h3>
+<h3 align="left">Enthusiastic in Mobile and Web programming</h3>
 
+- 📱 Proficient in **Android** programming
+- 🧬 Got a bit with **Bioinformatics** using **Python Library**
+- 🔢 Good in **Logical Math**
 - 🌱 I’m currently learning **Flutter and Laravel**
-- 📫 How to reach me **masdikailhanmansiz@gmail.com**
+- 📫 Look me for at **masdikailhanmansiz@gmail.com**
 
 <h4 align="left">Skill :</h4>
 <p align="left"> 
