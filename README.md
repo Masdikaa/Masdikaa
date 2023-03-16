@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Masdika Ilhan Mansiz</h1>
+<h1 align="left">Hi👋🏼, I'm Masdika Ilhan Mansiz</h1>
 <h3 align="left">Enthusiastic in Mobile and Web programming</h3>
 
 - 📱 Proficient in **Android** programming
