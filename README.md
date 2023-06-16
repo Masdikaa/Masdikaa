@@ -62,6 +62,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=masdikaa&show_icons=true&locale=en&layout=compact" alt="masdikaa" /></p>
 
+<p>
+Humans evolutionarily are not designed to be happy, but to survive. happiness as a purpose of living by the wise during this time is misleading and becoming the root of the problem. Happiness is abstract and humans cannot be happy constantly when happiness becomes obsession it makes humans depressed and frustrated when there is nothing wrong when they are not happy. enjoy life and make a comfortable life. 
+</p>
 
 <h4 align="left">Social Media :</h4>
 <p align="left">
