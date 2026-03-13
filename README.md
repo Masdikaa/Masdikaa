@@ -10,6 +10,7 @@ I am a **Software Engineer** with a deep passion for the world of Information Te
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:masdikailhanmansiz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MasdikaIlhanMansiz)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/masdikailhannn)
+[![Instagram](https://img.shields.io/badge/My%20Portofolio-0F2573)](https://masdika.vercel.app)
 
 ---
 
